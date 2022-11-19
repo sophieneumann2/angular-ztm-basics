@@ -1,6 +1,7 @@
 # Basics
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0 and follows the 
+following udemy course: [ZTM Course](https://www.udemy.com/course/complete-angular-developer-zero-to-mastery/).
 
 ## Development server
 
