@@ -13,4 +13,8 @@ export class AppComponent {
   getName() {
     return this.name;
   }
+
+  changeImage(e: KeyboardEvent) {
+    this.imgUrl = (e.target as HTMLInputElement).value;
+  }
 }
